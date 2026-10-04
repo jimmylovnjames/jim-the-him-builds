@@ -1,4 +1,8 @@
-# Jim the Him: Android builds
+# Jim the Him
+
+**[Play in your browser](https://jimmylovnjames.github.io/jim-the-him-builds/)** (phone or desktop, no install). Hold your phone sideways.
+
+## Android
 
 **[Download jim-the-him-v1.1.2.apk](https://github.com/jimmylovnjames/jim-the-him-builds/releases/download/v1.1.2/jim-the-him-v1.1.2.apk)** (82.6 MB)
 
