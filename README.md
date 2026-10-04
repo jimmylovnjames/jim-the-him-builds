@@ -1,15 +1,18 @@
-# Jim the Him: Android test builds
+# Jim the Him: Android builds
 
-**[Download jim-the-him-v1.1.1.apk](https://github.com/jimmylovnjames/jim-the-him-builds/raw/main/jim-the-him-v1.1.1.apk)** (82.5 MB)
+**[Download jim-the-him-v1.1.2.apk](https://github.com/jimmylovnjames/jim-the-him-builds/releases/download/v1.1.2/jim-the-him-v1.1.2.apk)** (82.6 MB)
 
 - Android 7.0 or newer, 64-bit and 32-bit ARM phones.
-- Eight stages, from Waimamaku Bush to the Graft Corp Fortress.
+- Eight stages, from Waimamaku Bush to the Graft Corp Fortress, with touch controls.
 
 ## Install
 
-1. Download the APK on the phone (the full file is 82.5 MB, shown as 78.7 MB on some phones).
-2. Open it from the download notification or the Files app and choose **Install**.
+1. **If you installed v1.1.1, uninstall it first.** v1.1.2 is signed with a new permanent key,
+   and Android refuses to install a differently signed app over the old one ("App not installed").
+   From v1.1.2 on, every update installs straight over the top and keeps your save.
+2. Download the APK on the phone and open it from the download notification or the Files app, then tap **Install**.
    If Android asks, allow **Install unknown apps** for that app.
 3. If Play Protect warns about an unknown developer, tap **More details**, then **Install anyway**.
 
-SHA-256: `02851a2d2503bc976564e7d26ce52de6c0a07fb4bec73eda4c4aa65c5935c0f2`
+SHA-256: `7bbe1e7ad192904e5c5351ad160e8b6c6862271afbe3692f43b08f1d6ad8fd14`
+Signing certificate SHA-256: `e52a4f3c18cdc5a9284815604a6a7fea63b0bbf7068ffe629b1d15c956ea323d`
